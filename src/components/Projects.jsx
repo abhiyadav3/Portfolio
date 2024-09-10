@@ -19,8 +19,8 @@ const Projects = [
         title:"Personal Portfolio",
         description: "A personal portfolio website built using React and Tailwind CSS, enhanced with smooth animations through Framer Motion. The portfolio showcases projects, skills and contact information with a modern, interactive design.",
         devStack: "React.js, Tailwind CSS, Framer Motion",
-        gitLink:"https://github.com/abhiyadav3/PrimeBlog",
-        liveLink:"https://prime-blog-nu.vercel.app/",
+        gitLink:"https://github.com/abhiyadav3/Portfolio",
+        liveLink:"https://portfolio-abhishek-yadavs-projects-331b8225.vercel.app/",
         src: project2,
     },
     {
