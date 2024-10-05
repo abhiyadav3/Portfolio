@@ -1,10 +1,11 @@
 import React from "react";
 import image from "../assets/profilepic.png"
+import resume from "../assets/resume.pdf"
 import { FaDownload } from "react-icons/fa";
 
 const BIO = {
     image: image,
-    resume: "path/to/your/resume.pdf",
+    resume: resume,
     content: [
       "I am Abhishek Yadav, a computer science undergraduate at Amity University Lucknow with a passion for web development. With a strong foundation in both front-end and back-end development, I thrive on turning ideas into reality.",
       "I possess a deep understanding of modern web technologies and a keen eye for design, enabling me to build robust, scalable, and visually appealing applications. My projects range from simple utilities to intricate web applications, each with a commitment to functionality and user experience.",
