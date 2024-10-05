@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { FaTimes, FaBars } from "react-icons/fa";
+import resume from "../assets/resume.pdf"
 
 const NAVIGATION_LINKS = [
     { label: "Home", href: "#home" },
@@ -7,7 +8,7 @@ const NAVIGATION_LINKS = [
     { label: "What I know", href: "#whatiknow" },
     { label: "Projects", href: "#project" },
     { label: "Contact", href: "#contact" },
-    { label: "Resume", href: "#"},
+    { label: "Resume", href: resume},
   ];
 
 const Navbar = () => {
